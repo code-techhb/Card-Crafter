@@ -1,9 +1,8 @@
 'use client';
 import { useUser } from '@clerk/nextjs';
 import { useState, useEffect } from 'react';
-import { useRouter } from 'next/navigation';
 import { db } from '@/firebase';
-import { doc, collection, getDoc, getDocs } from 'firebase/firestore';
+import { doc, collection, getDocs } from 'firebase/firestore';
 import theme from '../components/theme';
 import Navbar from '@/app/components/navbar';
 import { useSearchParams } from 'next/navigation';
