@@ -25,4 +25,4 @@ CardCrafter is a modern AI flashcard web application that converts your study ma
 
 
 ## What to expect 
-[ Demo coming soon ] 
+Demo: https://www.youtube.com/watch?v=5rm1Ye-eh8o
