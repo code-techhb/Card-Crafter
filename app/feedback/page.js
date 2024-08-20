@@ -140,7 +140,7 @@ export default function SignUpPage() {
               >
                 <Avatar
                   alt="Developer of CardCrafter 2"
-                  src="/g.png"
+                  src="/G.png"
                   sx={{ width: 100, height: 100, border: '2px solid #1D1632' }}
                 />
                 <Typography mt={1} align="center">
